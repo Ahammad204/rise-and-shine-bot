@@ -1,4 +1,4 @@
-Here’s the complete code for the README file for your project:
+
 
 ```markdown
 # Rise and Shine Challenge
