@@ -5,7 +5,7 @@
 
 ## Overview
 
-The Rise and Shine Challenge is a project designed to manage a daily challenge where participants submit their entries via a Microsoft Form. The project integrates with Google Sheets for data storage and uses a Telegram bot to facilitate communication and notifications.
+The Rise and Shine Challenge is a project designed to manage a daily challenge where participants submit their entries. The project integrates with Google Sheets for data storage and uses a Telegram bot to facilitate communication and notifications.
 
 ## Table of Contents
 
