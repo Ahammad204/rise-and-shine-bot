@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # Rise and Shine Challenge
 
 ## Overview
